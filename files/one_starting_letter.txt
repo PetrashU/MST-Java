@@ -1,0 +1,6 @@
+Aab B 3
+Ab C 5
+Aab D 7
+B C 1
+C D 1
+D E 7
